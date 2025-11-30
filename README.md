@@ -44,14 +44,6 @@ Si tienes alguna idea, proyecto o simplemente una consulta, ¡me encantaría sab
 
 ---
 
-## 📈 Mi actividad en GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiascorreadev&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascorreadev&layout=compact&theme=buefy&hide_border=true&locale=es" alt="Lenguajes Principales" />
-</p>
-
 ***
 
 <p align="center">
