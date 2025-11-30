@@ -7,7 +7,7 @@
 
 ## 🧐 Un poco sobre mí
 
-Soy **Matías Ezequiel Correa**, un apasionado de la tecnología y el desarrollo web con base en Barcelona. Me desempeño como Front-End Developer en constante crecimiento, explorando nuevas herramientas y técnicas para dar vida a proyectos innovadores.
+Soy **Matías Correa**, un apasionado de la tecnología y el desarrollo web con base en Barcelona. Me desempeño como Front-End Developer en constante crecimiento, explorando nuevas herramientas y técnicas para dar vida a proyectos innovadores.
 
 Me considero una persona responsable, proactiva y comprometida, con una gran capacidad para la resolución de problemas y la gestión de proyectos. Disfruto enfrentándome a nuevos desafíos y siempre busco entregar soluciones efectivas y de calidad.
 
@@ -17,7 +17,6 @@ Me considero una persona responsable, proactiva y comprometida, con una gran cap
 
 ## 🛠️ Tecnologías que utilizo actualmente
 
-Para mantener el estilo limpio de tu portfolio, he seleccionado *badges* profesionales para las tecnologías que mencionaste.
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,8 +48,8 @@ Si tienes alguna idea, proyecto o simplemente una consulta, ¡me encantaría sab
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiascorreadev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascorreadev&layout=compact&theme=default&hide_border=true" alt="Lenguajes Principales" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiascorreadev&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiascorreadev&layout=compact&theme=buefy&hide_border=true&locale=es" alt="Lenguajes Principales" />
 </p>
 
 ***
