@@ -7,9 +7,11 @@
 
 ## 🧐 Un poco sobre mí
 
-Soy **Matías Correa**, un apasionado de la tecnología y el desarrollo web con base en Barcelona. Me desempeño como Front-End Developer en constante crecimiento, explorando nuevas herramientas y técnicas para dar vida a proyectos innovadores.
+Soy **Matías Ezequiel Correa**, un apasionado de la tecnología y el desarrollo web con base en Barcelona.
 
-Me considero una persona responsable, proactiva y comprometida, con una gran capacidad para la resolución de problemas y la gestión de proyectos. Disfruto enfrentándome a nuevos desafíos y siempre busco entregar soluciones efectivas y de calidad.
+Me encuentro en mis primeros pasos en el sector, y mi motor es la **curiosidad** por entender cada detalle, la **creatividad** para plantear soluciones y un **compromiso** auténtico por mejorar día a día.
+
+Soy una persona comunicativa, adaptable y con una fuerte motivación por crecer. **Además de programar, me apasiona explorar cómo la tecnología se integra en lo cotidiano y disfruto mucho aplicando la creatividad para convertir ideas complejas en experiencias web intuitivas.** ¡Disfruto colaborar, compartir ideas y aprender del equipo! Aporto mi energía, iniciativa y una voluntad auténtica de seguir creciendo en cada proyecto.
 
 **[🌐 Ver mi Portfolio completo](https://matiascorreadev.github.io/portfolio/)**
 
@@ -47,5 +49,5 @@ Si tienes alguna idea, proyecto o simplemente una consulta, ¡me encantaría sab
 ***
 
 <p align="center">
-  ¡Gracias por tu visita! Hecho con ❤️ y Markdown.
+  ¡Gracias por tu visita! Hecho con ❤️.
 </p>
